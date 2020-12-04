@@ -1,0 +1,11 @@
+.MegaSenha ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+.MegaSenha ul li {
+    list-style: none;
+    margin: auto;
+    padding: 5px;
+    font-size: 1.2rem;
+}
